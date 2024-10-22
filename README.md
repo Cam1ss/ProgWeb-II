@@ -4,9 +4,7 @@
 </div>
 
 <div align="center">
-<img width="80%" src="https://github.com/Cam1ss/ProgWeb-I/assets/125037138/8963320b-682f-40af-9228-7dcf429fda20">
-    
-<a> Créditos a imagem <a href="https://br.freepik.com/vetores-gratis/programador-trabalhando-com-css_5480318.htm#page=2&query=programador%20web&position=1&from_view=search&track=ais&uuid=3921ed5e-fdcd-49ef-8cef-920019c5f358">de fullvector</a>
+<img width="80%" src="https://github.com/user-attachments/assets/833dc876-0c70-4b97-b2ce-774bcfa4f30a">
 
 </div>
 
